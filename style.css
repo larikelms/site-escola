@@ -1,0 +1,9 @@
+header {
+    background-color: #377C4B;
+    color: white;
+    display: flex;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
